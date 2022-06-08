@@ -1,0 +1,3 @@
+﻿  Squares.cpp
+C:\Users\Beni\source\repos\Fundamentals\Advanced\MapAndSet\Squares\Squares.cpp(15,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Squares.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Advanced\MapAndSet\x64\Debug\Squares.exe
