@@ -1,0 +1,4 @@
+﻿  CompareMatrices.cpp
+C:\Users\Beni\source\repos\Fundamentals\Advanced\MultidimentionalArrays\CompareMatrices\CompareMatrices.cpp(39,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Beni\source\repos\Fundamentals\Advanced\MultidimentionalArrays\CompareMatrices\CompareMatrices.cpp(40,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CompareMatrices.vcxproj -> C:\Users\Beni\source\repos\Fundamentals\Advanced\MultidimentionalArrays\x64\Debug\CompareMatrices.exe
